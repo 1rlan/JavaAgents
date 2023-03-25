@@ -1,0 +1,300 @@
+{
+  "operations": [
+    {
+      "number": 37,
+      "id": 0,
+      "item": "Nastoyka",
+      "start": "2023-03-25T22:53:25.389107",
+      "finish": "2023-03-25T22:53:25.390095",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 1,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390139",
+      "finish": "2023-03-25T22:53:25.390158",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 2,
+      "item": "Nastoyka",
+      "start": "2023-03-25T22:53:25.390166",
+      "finish": "2023-03-25T22:53:25.390180",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 3,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390186",
+      "finish": "2023-03-25T22:53:25.390198",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 4,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390204",
+      "finish": "2023-03-25T22:53:25.390213",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 5,
+      "item": "Gin Tonic",
+      "start": "2023-03-25T22:53:25.390219",
+      "finish": "2023-03-25T22:53:25.390229",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 6,
+      "item": "Nastoyka",
+      "start": "2023-03-25T22:53:25.390235",
+      "finish": "2023-03-25T22:53:25.390243",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 7,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390249",
+      "finish": "2023-03-25T22:53:25.390267",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 8,
+      "item": "Lemonade",
+      "start": "2023-03-25T22:53:25.390274",
+      "finish": "2023-03-25T22:53:25.390285",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 9,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390291",
+      "finish": "2023-03-25T22:53:25.390300",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 10,
+      "item": "Beliy Russki",
+      "start": "2023-03-25T22:53:25.390306",
+      "finish": "2023-03-25T22:53:25.390319",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 11,
+      "item": "Vodka",
+      "start": "2023-03-25T22:53:25.390325",
+      "finish": "2023-03-25T22:53:25.390345",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 12,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390359",
+      "finish": "2023-03-25T22:53:25.390370",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 13,
+      "item": "Vodka",
+      "start": "2023-03-25T22:53:25.390377",
+      "finish": "2023-03-25T22:53:25.390388",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 14,
+      "item": "Lemonade",
+      "start": "2023-03-25T22:53:25.390450",
+      "finish": "2023-03-25T22:53:25.390502",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 15,
+      "item": "Water",
+      "start": "2023-03-25T22:53:25.390510",
+      "finish": "2023-03-25T22:53:25.390521",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 16,
+      "item": "Water",
+      "start": "2023-03-25T22:53:25.390531",
+      "finish": "2023-03-25T22:53:25.390542",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 17,
+      "item": "Beliy Russki",
+      "start": "2023-03-25T22:53:25.390548",
+      "finish": "2023-03-25T22:53:25.390558",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 18,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390564",
+      "finish": "2023-03-25T22:53:25.390578",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 19,
+      "item": "Vodka",
+      "start": "2023-03-25T22:53:25.390586",
+      "finish": "2023-03-25T22:53:25.390602",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 20,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390609",
+      "finish": "2023-03-25T22:53:25.390618",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 21,
+      "item": "Gin Tonic",
+      "start": "2023-03-25T22:53:25.390628",
+      "finish": "2023-03-25T22:53:25.390638",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 22,
+      "item": "Nastoyka",
+      "start": "2023-03-25T22:53:25.390644",
+      "finish": "2023-03-25T22:53:25.390653",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 23,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390674",
+      "finish": "2023-03-25T22:53:25.390685",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 24,
+      "item": "Lemonade",
+      "start": "2023-03-25T22:53:25.390692",
+      "finish": "2023-03-25T22:53:25.390706",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 25,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390712",
+      "finish": "2023-03-25T22:53:25.390722",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 26,
+      "item": "Gin Tonic",
+      "start": "2023-03-25T22:53:25.390728",
+      "finish": "2023-03-25T22:53:25.390737",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 27,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390746",
+      "finish": "2023-03-25T22:53:25.390758",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 28,
+      "item": "Vodka",
+      "start": "2023-03-25T22:53:25.390764",
+      "finish": "2023-03-25T22:53:25.390777",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 29,
+      "item": "Nastoyka",
+      "start": "2023-03-25T22:53:25.390783",
+      "finish": "2023-03-25T22:53:25.390797",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 30,
+      "item": "Vodka",
+      "start": "2023-03-25T22:53:25.390802",
+      "finish": "2023-03-25T22:53:25.390813",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 31,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390819",
+      "finish": "2023-03-25T22:53:25.390828",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 32,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390833",
+      "finish": "2023-03-25T22:53:25.390843",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 33,
+      "item": "Zhiguli",
+      "start": "2023-03-25T22:53:25.390849",
+      "finish": "2023-03-25T22:53:25.390858",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 34,
+      "item": "Beliy Russki",
+      "start": "2023-03-25T22:53:25.390864",
+      "finish": "2023-03-25T22:53:25.390873",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 35,
+      "item": "Cappuccino",
+      "start": "2023-03-25T22:53:25.390880",
+      "finish": "2023-03-25T22:53:25.390890",
+      "cookerName": "Irla"
+    },
+    {
+      "number": 37,
+      "id": 36,
+      "item": "Beliy Russki",
+      "start": "2023-03-25T22:53:25.390896",
+      "finish": "2023-03-25T22:53:25.390905",
+      "cookerName": "Irla"
+    }
+  ]
+}

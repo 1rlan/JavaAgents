@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name" : "Nastoyka",
+      "price" : 190,
+      "waitingTime" : 2,
+      "ingredients" : [
+        "Malina", "Chili"
+      ]
+    },
+    {
+      "name" : "Gin Tonic",
+      "price" : 300,
+      "waitingTime" : 3,
+      "ingredients" : [
+        "Ice" ,"Gin"
+      ]
+    },
+    {
+      "name" : "Zhiguli",
+      "price" : 250,
+      "waitingTime" : 2,
+      "ingredients" : [
+        "Beer"
+      ]
+    },
+    {
+      "name" : "Beliy Russki",
+      "price" : 350,
+      "waitingTime" : 4,
+      "ingredients" : [
+        "Ice" ,"Vodka", "Coffee"
+      ]
+    },
+    {
+      "name" : "Vodka",
+      "price" : 150,
+      "waitingTime" : 1,
+      "ingredients" : [
+        "Vodka"
+      ]
+    },
+    {
+      "name" : "Lemonade",
+      "price" : 160,
+      "waitingTime" : 3,
+      "ingredients" : [
+        "Ice", "Lemon", "Sugar"
+      ]
+    },
+    {
+      "name" : "Cappuccino",
+      "price" : 180,
+      "waitingTime" : 3,
+      "ingredients" : [
+        "Coffee", "Sugar", "Milk"
+      ]
+    },
+    {
+      "name" : "Water",
+      "price" : 0,
+      "waitingTime" : 10,
+      "ingredients" : [
+        "Ice"
+      ]
+    }
+  ]
+}

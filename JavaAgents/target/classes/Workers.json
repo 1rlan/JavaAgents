@@ -1,0 +1,12 @@
+{
+  "cookers": [
+    {
+      "name" : "Irla",
+      "isActive" : true
+    },
+    {
+      "name" : "Sardora",
+      "isActive" : true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "ingredients": [
+    {
+      "name" : "Ice",
+      "amount" : 200
+    },
+    {
+      "name" : "Lime",
+      "amount" : 50
+    },
+    {
+      "name" : "Lemon",
+      "amount" : 50
+    },
+    {
+      "name" : "Malina",
+      "amount" : 78
+    },
+    {
+      "name" : "Chili",
+      "amount" : 78
+    },
+    {
+      "name" : "Gin",
+      "amount" : 120
+    },
+    {
+      "name": "Beer",
+      "amount": 430
+    },
+    {
+      "name": "Vodka",
+      "amount": 256
+    },
+    {
+      "name" : "Coffee",
+      "amount" : 67
+    },
+    {
+      "name" : "Sugar",
+      "amount" : 1244
+    },
+    {
+      "name" : "Milk",
+      "amount" : 302
+    }
+  ]
+}
